@@ -4,32 +4,33 @@ theme: neobeam
 paginate: true
 math: katex
 title: 不數位化的自由
-footer: '**mikael-ros**
-         **A modern take on the LaTeX beamer theme**
-         **Version 0.9, 2025**'
+footer: '**逃往最後的房間：數位法治特展**
+         **2025.09.20**
+         **不數位化的自由**'
 ---
 
 <!-- _class: title -->
-# A modern take on the LaTeX beamer theme
 
-## mikael-ros
+# AI 襲來，「不數位化的自由」該往何方
 
-> ### Faculty of GitHub
-> University of Marp
+> 逃往最後的房間：司改會數位法治特展｜講座
 
-## Version 0.9, 2025
+2025.09.20
 
-![logo GitHub Logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/hand.svg)
+![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/dharmachakra.svg)
 
 ---
-<!-- header: 'Table of contents' -->
-1. Normal text
-2. Code blocks
-3. Mathematics
-4. Tables
-5. Images
-6. HTML stuff
+
+<!-- header: 'Outline' -->
+
+1. Privacy
+2. Artificial intelligence (AI)
+3. Right to not Digitize
+4. Data Minimization
+5. Meaningful Alternative
+
 ---
+
 <!-- header: 'Normal text' -->
 **This** is what a regular slide can look like in Neobeam.
 - A cool fact
@@ -44,6 +45,7 @@ A quote from my favorite author
 > "Hello" - Author Cool 2024
 
 ---
+
 <!-- header: 'Code blocks' -->
 We can define ``variables`` inline, and code in blocks (with syntax highlighting!!!):
 ```java
@@ -52,6 +54,7 @@ We can define ``variables`` inline, and code in blocks (with syntax highlighting
     }
 ```
 ---
+
 <!-- header: 'Mathematics corner' -->
 ## Formulas
 > The length of a vector can be computed by the following formula
@@ -65,6 +68,7 @@ Blockquotes with level 4 (####) headings inside get translated to definitions li
 > A collection of numbers
 
 ---
+
 <!-- header: 'Data' -->
 Tables are also decorated in this theme!
 | Left Row    | Center Row  | Right row     |
@@ -73,7 +77,9 @@ Tables are also decorated in this theme!
 | Some        |  Cool       | Data          |
 | Some        |  Cool       | Data          |
 | Some        |  Cool       | Data          |
+
 ---
+
 <!-- header: 'Images' -->
 
 ![Photo by Joshua J. Cotten on Unsplash](https://images.unsplash.com/photo-1601247387326-f8bcb5a234d4?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
@@ -81,6 +87,7 @@ Tables are also decorated in this theme!
 Images can be left-aligned, centered, and right-aligned!
 
 ---
+
 <!-- header: 'HTML wonderland' -->
 <!-- This slide only works with HTML enabled -->
 
