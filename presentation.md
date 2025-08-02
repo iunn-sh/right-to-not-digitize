@@ -17,7 +17,7 @@ footer: '**逃往最後的房間：數位法治特展**
 
 2025.09.20
 
-<!-- ![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/dharmachakra.svg) -->
+![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/solid/dharmachakra.svg)
 
 ---
 
