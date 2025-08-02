@@ -4,6 +4,7 @@
 
 * Framework [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
 * Theme [mikael-ros/neobeam](https://github.com/mikael-ros/neobeam)
+* Font [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font)
 
 ```
 # install
