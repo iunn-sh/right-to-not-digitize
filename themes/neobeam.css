@@ -12,7 +12,7 @@
 /***********/
 /* Imports */
 /***********/
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Huninn&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 /*@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');*/
@@ -35,7 +35,7 @@
     --color-shift: 30;
     
     /* Font configuration */
-    --default-font: "Noto Sans TC";
+    --default-font: "Huninn";
     --monospace-font: "Source Code Pro";
     --math-font: "Noto Sans Math";
 
