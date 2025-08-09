@@ -294,7 +294,7 @@ section.title blockquote {
 /* Logo */
 section.title img[alt*="logo"] {
     --offset: -5%;
-    --rotate: -45deg;
+    /*--rotate: -45deg;*/
 
     /* Position in lower right, by default */
     position: absolute;
@@ -306,8 +306,8 @@ section.title img[alt*="logo"] {
     object-fit: contain;
 
     /* Rotate it slightly */
-    transform: rotate(var(--rotate));
-    opacity: 0.5;
+    /*transform: rotate(var(--rotate));*/
+    opacity: 0.25;
 }
 
 /* Logo left side */
