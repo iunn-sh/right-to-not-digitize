@@ -10,10 +10,10 @@ footer: '**逃往最後的房間：數位法治特展**
 ---
 
 <!-- _class: title -->
+<!-- _paginate: false -->
+<!-- _footer: '' -->
 
-![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/regular/compass.svg)
-
-# AI 襲來，「不數位化的自由」該往何方 <br> Right to not Digitize in the AI-era
+# Right to not Digitize in the AI-era <br> AI 襲來，「不數位化的自由」該往何方
 
 > 逃往最後的房間：司改會數位法治特展｜講座
 
@@ -21,7 +21,7 @@ footer: '**逃往最後的房間：數位法治特展**
 
 ---
 
-<!-- header: 'Outline' -->
+<!-- _header: 'Outline' -->
 
 0. Privacy 隱私
 1. Artificial intelligence (AI) 人工智慧
@@ -31,36 +31,107 @@ footer: '**逃往最後的房間：數位法治特展**
 
 ---
 
-<!-- header: 'Privacy 隱私' -->
+<!-- _class: title -->
 
-隱私
+![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/solid/fingerprint.svg)
+
+# Privacy <br> 隱私
+
 資訊自決權
 個人資料
+便利的代價
 
 ---
 
-<!-- header: 'Artificial intelligence (AI) 人工智慧' -->
+<!-- _header: 'Privacy 隱私' -->
+
+調查行蹤
+
+---
+
+<!-- _header: 'Convenience & Consideration 便利的代價' -->
+
+1200通勤月票
+信用卡自動儲值
+一卡通/悠遊卡
+現金
+
+---
+
+<!-- _class: title -->
+
+![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/solid/circle-nodes.svg)
+
+# Artificial Intelligence (AI) <br> 人工智慧
 
 AI / Gen-AI
-Game changer? -> 並非每個技術變遷的警告都有成真，難以想像過去的生活方式（數位原住民）
+Game changer?
+
+---
+
+<!-- _header: 'Artificial Intelligence (AI) 人工智慧' -->
+
+AI / Gen-AI
+
+---
+
+<!-- _header: 'OpenAI' -->
+
+<center>
+    <video class="video" id="vid-openai" muted controls autoplay loop width="75%">
+       <source id="src" src="https://cdn.openai.com/sora/videos/wooly-mammoth.mp4" type="video/mp4">
+    </video>
+    <p>OpenAI - <a href="https://openai.com/index/sora/">Sora</a></p>
+</center>
+
+---
+
+<!-- _header: 'Google' -->
+
+<center>
+    <video class="video" id="vid-gemini" muted controls autoplay loop width="75%">
+       <source id="src" src="https://storage.googleapis.com/gweb-gemini-cdn/gemini/uploads/e4e754498b0fa52f1bd8e5c43fff67e47417630d.compressed.mp4" type="video/mp4">
+    </video>
+    <p>Google - <a href="https://gemini.google/overview/video-generation/">Gemini</a></p>
+</center>
+
+---
+
+<!-- _header: 'Game changer?' -->
+
+Concerns in the past
 - 報紙/廣播/電視
 - YouTube/直播
 - Deepfake
 - Gen-AI
-便利的代價：1200通勤月票/信用卡自動儲值/一卡通/現金
+
+:arrow_right: 並非每個技術變遷的警告都有成真，難以想像過去的生活方式（數位原住民）
 
 ---
 
-<!-- header: 'Right to not Digitize 不數位化的自由' -->
+<!-- _class: title -->
+
+![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/regular/compass.svg)
+
+# Right to not Digitize <br> 不數位化的自由
+
 不被追蹤的需求
 多想幾步
 保留選擇的自由？
 
 ---
 
-<!-- header: 'Data Minimization 資料最小化' -->
+<!-- _header: 'Right to not Digitize 不數位化的自由' -->
 
-DBR 4
+Cookie
+
+---
+
+<!-- _class: title -->
+
+![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/solid/shoe-prints.svg)
+
+# Data Minimization <br> 資料最小化
 
 限縮範圍：資料蒐集/處理/利用
 推測資料（inferred data）
@@ -70,14 +141,34 @@ DBR 4
 
 ---
 
-<!-- header: 'Meaningful Alternative 替代選擇權' -->
+<!-- _header: 'Data Minimization 資料最小化' -->
 
-DBR 5
+DBR 4
+
+---
+
+<!-- _class: title -->
+
+![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/regular/map.svg)
+
+# Meaningful Alternative <br> 替代選擇權
 
 「選擇」參與數位環境的自由（opt-in）：cookie
 差別待遇
 有意義的替代方案
 非數位的支付方式（不被追蹤的自由）
+
+---
+
+<!-- _header: 'Meaningful Alternative 替代選擇權' -->
+
+DBR 5
+
+---
+
+> Eternal vigilance is the price of liberty.
+> 自由的代價是永恆的警戒。
+> -- Thomas Jefferson
 
 ---
 
