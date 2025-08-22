@@ -97,7 +97,7 @@ AI / Gen-AI
 
 ---
 
-<!-- _header: 'Game changer?' -->
+<!-- _header: 'Technological Change 技術變遷' -->
 
 Concerns in the past
 - 報紙/廣播/電視
@@ -106,6 +106,24 @@ Concerns in the past
 - Gen-AI
 
 :arrow_right: 並非每個技術變遷的警告都有成真，難以想像過去的生活方式（數位原住民）
+
+---
+
+<!-- _header: 'Game changer?' -->
+
+(Why) is GenAI the breaking change?
+
+- Killer application: influence and potential profitability <!-- .element: class="fragment" -->
+- Permission for human to view != for robot to crawl <!-- .element: class="fragment" -->
+- Fair use 🆚 tokenized training data <!-- .element: class="fragment" -->
+
+---
+
+<!-- _header: 'AI Triangle AI三本柱' -->
+
+[Three Reasons Why Now Is The Time For AI](https://medium.com/analytics-matters/three-reasons-why-now-is-the-time-for-artificial-intelligence-4299b8d7efc7) 2018.06
+
+![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_9cez7-2OwbRVJlFp5bVnQ.png)
 
 ---
 
@@ -121,7 +139,23 @@ Concerns in the past
 
 ---
 
-<!-- _header: 'Right to not Digitize 不數位化的自由' -->
+<!-- _header: 'Data 資料' -->
+
+[Data is the new air](https://www.csoonline.com/article/565480/data-is-the-new-air.html) 2018.05
+
+> Data is not the new “oil” anymore. Data is the new “air.” It has become more than economic fuel; it is a catalyst of innovation, of disruption, and of possibilities. However, it’s never a guarantee that all innovations, disruptions and possibilities will be positive ones.
+
+---
+
+<!-- _header: 'Software-as-a-Service (SaaS) 軟體即服務' -->
+
+[What is software-as-a-service (SaaS)?](https://www.cloudflare.com/learning/cloud/what-is-saas/)
+
+![saas application vs on premises](https://cf-assets.www.cloudflare.com/slt3lc6tev37/lFmdhi3Yhkb9IoMGcviQd/20f9e97bc317146a3a2d7793f3a586a8/saas-application-vs-on-premises.svg)
+
+---
+
+<!-- _header: 'Digital Footprint 數位足跡' -->
 
 Cookie
 
@@ -165,6 +199,8 @@ DBR 4
 DBR 5
 
 ---
+
+<!-- _header: 'Price of Liberty 自由的代價' -->
 
 > Eternal vigilance is the price of liberty.
 > 自由的代價是永恆的警戒。
