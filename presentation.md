@@ -21,7 +21,7 @@ footer: '**逃往最後的房間：數位法治特展**
 
 ---
 
-<!-- _header: 'Outline' -->
+<!-- _header: 'Outline 大綱' -->
 
 0. Privacy 隱私
 1. Artificial intelligence (AI) 人工智慧
