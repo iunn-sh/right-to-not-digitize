@@ -340,7 +340,7 @@ blockquote, pre, table {
     --radius: var(--border-radius-default);
     min-width: 40%;
     width: fit-content;
-    max-width: 60%;
+    max-width: 80%;
 
     padding: var(--text-padding);
     margin: calc(.75*var(--text-padding)) 0;
@@ -459,7 +459,7 @@ img {
     display: inline;
     /*display: block;*/
     width: fit-content;
-    max-width: 50%;
+    max-width: 60%;
     margin: var(--text-padding) 0;
 
     border-radius: var(--border-radius-default);
