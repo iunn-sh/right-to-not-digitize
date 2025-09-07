@@ -43,9 +43,19 @@ footer: '**逃往最後的房間：數位法治特展**
 
 ---
 
+<!-- _header: 'Epidemic Prevention 防疫' -->
+
+[防疫有如抓重案要犯　警尖端科技全用上](https://www.mirrormedia.mg/story/20200316soc002) 2020.03
+
+> 武漢肺炎衝擊全球，台灣的防疫表現有目共睹。本刊調查，除了第一線醫護人員的付出，政府第一時間啟動跨部會合作，也是重要關鍵，其中7萬警察大軍全面投入，以偵辦重大刑案的態度看待防疫任務，並運用<mark>科技偵查手法</mark>，釐清確診者的接觸史、掌握隔離者的行蹤，成功防堵疫情可能的破口。
+
+---
+
 <!-- _header: 'Investigation 調查' -->
 
-先想像一下
+<!-- ![bg opacity:0.5](https://images.unsplash.com/photo-1536514498073-50e69d39c6cf) -->
+
+先想像一下 :thought_balloon:
 
 - 外遇蒐證
 - 工商徵信
@@ -65,7 +75,7 @@ footer: '**逃往最後的房間：數位法治特展**
 
 ---
 
-<!-- _header: 'Data Privacy 資料隱私' -->
+<!-- _header: 'Privacy 隱私' -->
 
 [什麼是資料隱私？](https://www.cloudflare.com/zh-tw/learning/privacy/what-is-data-privacy/)
 
@@ -75,12 +85,22 @@ footer: '**逃往最後的房間：數位法治特展**
 
 <!-- _header: 'Convenience & Consideration 便利的代價' -->
 
-交通
+交通 :metro:
 
 - 1,200通勤月票
 - 信用卡自動儲值
 - 一卡通/悠遊卡
 - 現金
+
+<!-- but what if I've got nothing to hide? -->
+
+---
+
+<!-- _header: 'Convenience & Consideration 便利的代價' -->
+
+[Why Hong Kong’s protesters were afraid to use their metro cards](https://qz.com/1642441/extradition-law-why-hong-kong-protesters-didnt-use-own-metro-cards) 2022.07
+
+> Each Octopus card contains a chip that stores its outstanding balance and transaction records, and each card has a serial number for identification. These days, they can even be linked to a credit card to automatically top-up when the balance runs low, making the cards even easier to trace. As police officers put it to the South China Morning Post, <mark>the card is like a GPS system because it can locate where and when the holder uses it</mark>.
 
 ---
 
@@ -125,26 +145,81 @@ Game changer?
 
 ---
 
+<!-- _header: 'AI Training 訓練AI' -->
+
+[How to Train an Artificial Intelligence (AI) Model](https://www.intuit.com/blog/innovative-thinking/how-to-train-ai-model/) 2025.07
+
+1. Define the problem and use case
+2. Understand your data needs
+3. Collect and prepare <mark>quality data</mark>
+4. Choose an AI model architecture
+5. Train the model
+6. Evaluate and improve the model
+
+---
+
 <!-- _header: 'Technological Change 技術變遷' -->
 
 Concerns in the past
 - 報紙/廣播/電視
+- Internet
+- （智慧型）手機
+- 社群媒體
 - YouTube/直播
 - 電影院/串流平台
-- Deepfake
 - Gen-AI
-
-:arrow_right: 並非每個技術變遷的警告都有成真，難以想像過去的生活方式（數位原住民）
 
 ---
 
-<!-- _header: 'Game changer?' -->
+<!-- _header: 'Technological Change 技術變遷' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
+
+[Will Streaming Music Services Kill the Music Industry?](https://itsjustjustin.com/will-streaming-music-services-kill-the-music-industry/7513) 2013.03
+
+> Based on my habits, the streaming music industry is killing the traditional music industry. <mark>What is good for consumers, in this instance, is not good for artists as streaming services pay oh so very little for each play</mark>, see the image to the right. Apple reportedly offered the Industry a streaming payout that is less than 1/3 the industry standard!
+
+* :arrow_right: 並非每個技術變遷的警告都有成真，難以想像過去的生活方式（數位原住民）
+
+---
+
+<!-- _header: 'Warning on AI 關於AI的警告' -->
+
+[Stephen Hawking warns artificial intelligence could end mankind](https://www.bbc.com/news/technology-30290540) 2014.12
+
+> Prof Stephen Hawking, one of Britain's pre-eminent scientists, has said that efforts to create thinking machines pose a threat to our very existence. He told the BBC: "<mark>The development of full artificial intelligence could spell the end of the human race.</mark>" His warning came in response to a question about a revamp of the technology he uses to communicate, which involves a basic form of AI.
+
+---
+
+<!-- _header: 'Game changer? 遊戲顛覆者？' -->
 
 (Why) is Gen-AI the breaking change?
 
-- Killer application: influence and potential profitability <!-- .element: class="fragment" -->
-- Permission for human to view != for robot to crawl <!-- .element: class="fragment" -->
-- Fair use 🆚 tokenized training data <!-- .element: class="fragment" -->
+- Killer application: influence and potential profitability
+- Permission for human to view != for robot to crawl != for AI to train
+- Fair use 🆚 tokenized training data
+
+---
+
+<!-- _header: 'Data Openner 資料的開罐器' -->
+
+[罐頭冷知識：先有罐頭還是先有開罐器？一切起源竟與拿破崙有關！](https://www.roomie.tw/posts/47459) 2025.06
+
+> 罐頭的誕生要回到 18 世紀末。...法國廚師Nicolas Appert提出用玻璃瓶密封並加熱的保存法，被認為是現代罐頭技術的開端。後來英國人Peter Durand將之改良為<mark>金屬罐頭</mark>，並於<mark>1810年</mark>獲得專利，從此罐頭食品開始進入量產時代...。有了金屬罐頭，卻沒有人發明專用開罐器，造成19世紀人類小小的苦惱。當時的人得用錘子、鑿子或甚至直接拿槍刺開罐頭。直到<mark>1855年</mark>，英國人Robert Yeates才發明了<mark>第一把專用開罐器</mark>。這中間的50年，人類與罐頭「硬碰硬」，想想就覺得辛苦。
+
+---
+
+<!-- _class: title -->
+
+![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/regular/compass.svg)
+
+# Right to not Digitize <br> 不數位化的自由
+
+不被追蹤的需求
+保留選擇的自由？
 
 ---
 
@@ -156,23 +231,13 @@ Concerns in the past
 
 ---
 
-<!-- _class: title -->
-
-![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/regular/compass.svg)
-
-# Right to not Digitize <br> 不數位化的自由
-
-不被追蹤的需求
-多想幾步
-保留選擇的自由？
-
----
-
 <!-- _header: 'Data 資料' -->
 
 [Data is the new air](https://www.csoonline.com/article/565480/data-is-the-new-air.html) 2018.05
 
 > Data is not the new “oil” anymore. Data is the new “air.” It has become more than economic fuel; it is a catalyst of innovation, of disruption, and of possibilities. However, it’s never a guarantee that all innovations, disruptions and possibilities will be positive ones.
+
+<!-- role in AI era: air supply (along with computing power) -->
 
 ---
 
@@ -182,8 +247,7 @@ Concerns in the past
 
 ![saas application vs on premises](https://cf-assets.www.cloudflare.com/slt3lc6tev37/lFmdhi3Yhkb9IoMGcviQd/20f9e97bc317146a3a2d7793f3a586a8/saas-application-vs-on-premises.svg)
 
-- Adobe Creative Cloud
-- Microsoft 365
+<!-- Adobe Creative Cloud, Microsoft 365 -->
 
 ---
 
@@ -199,7 +263,7 @@ Concerns in the past
 
 [What is a digital footprint?](https://www.ibm.com/think/topics/digital-footprint)
 
-> A digital footprint, sometimes called a “digital shadow,” is the unique trail of data that a person or business creates while using the internet.
+> A digital footprint, sometimes called a “digital shadow,” is <mark>the unique trail of data</mark> that a person or business creates <mark>while using the internet</mark>.
 
 ---
 
@@ -224,6 +288,14 @@ Concerns in the past
 [Cookie是什麼？如何管理Cookie，防範網路隱私外洩？](https://blog.trendmicro.com.tw/?p=63387) 2022.11
 
 > 雖說Cookie很方便，但從隱私的角度而言，<mark>如果被意圖不軌的第三方使用Cookie，使用者在線上的行動極有可能遭到追蹤</mark>。Cookie可隨時刪除，亦可自行選擇是否儲存於電腦或智慧型手機內。可根據需求刪除Cookie，於資安與隱私之間取得平衡。
+
+---
+
+<!-- _header: 'Captcha 驗證碼' -->
+
+[驗證碼浪費用戶數十億小時？研究揭開reCAPTCHA背後真相：幫Google賺錢](https://www.techbang.com/posts/121342-captchas-waste-billions-of-user-hours-research-unravels-the) 2025.02
+
+> Google早在2009年就收購了廣泛使用的reCAPTCHA工具。加州大學於2023年進行的一項研究...聚焦於通過Google reCAPTCHAv2在現實中最常見的兩種驗證碼形式：<mark>「隱形」或基於行為的驗證碼</mark>，當你勾選「我不是機器人」框時，甚至在你瀏覽網站時，它會暗中分析你的輸入；還有基於圖像的驗證碼，你需要從Google街景獲取的圖片中選擇所有摩托車、交通號誌之類的內容。這兩種驗證碼對Google都很有價值，前者生成的追蹤cookie可能有助於廣告定向投放，而後者則可用於Google內部的人工智慧模型訓練，或者出售給其他公司。
 
 ---
 
@@ -281,6 +353,14 @@ Concerns in the past
 
 ---
 
+<!-- _header: 'Anonymized 匿名化' -->
+
+[你的個資真的已經匿名化了嗎？](https://infolaw.iias.sinica.edu.tw/?p=1831) 2019.09
+
+> <mark>在世界上大部分國家，匿名化資料並非個資</mark>，因此可以任意分享、販賣而並未違反隱私保護相關法律。即便多數匿名化資料集中，包含個人的約會對象偏好、政治傾向、家戶購買資料等特徵描述，仍然可以在市場上流通販賣，...針對資料匿名化之有效性問題，倫敦帝國學院及比利時魯汶大學（Université catholique de Louvain）日前開發出一種演算法，可以從幾乎是任一資料集中——只要至少含有15項屬性特徵（attributes），如性別、郵遞區號、婚姻狀況等——辨識出99.98％美國人。
+
+---
+
 <!-- _header: 'Privacy by Design / Privacy by Default） 隱私設計/預設隱私' -->
 
 [資料隱私設計 Design for Data Privacy](https://medium.com/uxeastmeetswest/%E8%B3%87%E6%96%99%E9%9A%B1%E7%A7%81%E8%A8%AD%E8%A8%88-design-for-data-privacy-f5f260dc7db8) 2018.08
@@ -321,9 +401,30 @@ Concerns in the past
 
 ---
 
+<!-- _header: 'Consent or Pay 同意或付費' -->
+
+[Most people will trade privacy for access to services such as Google, says Box CEO](https://www.cnbc.com/2020/01/02/most-people-will-trade-privacy-for-services-like-google-says-box-ceo.html) 2020.01
+
+> “I do think actually this is going to cause the ultimate test for consumers, to really make the decision and say, ‘<mark>Is the value we’re getting from these services worth possibly some of the data we’re giving up?</mark>’” said Levie, whose company provides cloud-based collaboration and file-sharing software.
+
+---
+
+<!-- _header: 'Digital Bill of Rights 數位權利法案（Draft v3.1）' -->
+
+第5條（離線替代方案權）
+
+1. 人民有選擇是否參與數位環境之自由。
+2. 國家應積極制定基礎設施和可行程序，以確保人民拒絕參與數位環境時，仍得<mark>完整近接及使用重要公共服務及關鍵基礎設施</mark>，並得<mark>以非數位化方式行使公民權利及履行公民義務</mark>。
+3. 國家對人民，不得因其是否參與數位環境之選擇，予以<mark>差別待遇</mark>。
+4. 國家應積極告知人民相關之<mark>離線替代方案</mark>。
+5. 第2項所定重要公共服務及關鍵基礎設施，包括但不限於社會福利、衛生醫療、民政、戶政、勞動、教育、農業、司法之公共服務及基礎設施。
+6. 國家應立法促使公共服務及關鍵基礎設施之提供者制定基礎及可行程序，保障人民前5項之權利。
+
+---
+
 <!-- _header: 'Non-digital (Payments) 非數位（支付）' -->
 
-[小黃卡](https://news.pts.org.tw/article/534298)
+遺失[小黃卡](https://news.pts.org.tw/article/534298) - 補發接種紀錄
 
 ![](https://news-data.pts.org.tw/media/2863/cover.png)
 
@@ -341,22 +442,19 @@ Concerns in the past
 
 第5條（離線替代方案權）
 
-1. 人民有選擇是否參與數位環境之自由。
-2. 國家應積極制定基礎設施和可行程序，以確保人民拒絕參與數位環境時，仍得<mark>完整近接及使用重要公共服務及關鍵基礎設施</mark>，並得<mark>以非數位化方式行使公民權利及履行公民義務</mark>。
-3. 國家對人民，不得因其是否參與數位環境之選擇，予以<mark>差別待遇</mark>。
-4. 國家應積極告知人民相關之<mark>離線替代方案</mark>。
-5. 第2項所定重要公共服務及關鍵基礎設施，包括但不限於社會福利、衛生醫療、民政、戶政、勞動、教育、農業、司法之公共服務及基礎設施。
-6. 國家應立法促使公共服務及關鍵基礎設施之提供者制定基礎及可行程序，保障人民前5項之權利。
-
----
-
-<!-- _header: 'Digital Bill of Rights 數位權利法案（Draft v3.1）' -->
-
-第5條（離線替代方案權）
-
 7. 因數位科技發展，致國家無從選擇而<mark>須依賴數位科技以達成特定之公共行政目的時</mark>，該行政行為不較使用數位科技時，對人民更不利益。
 8. 人民有使用數位化貨幣或非數位化貨幣之自由。
 9. 人民使用<mark>非數位化貨幣</mark>所為之支付，亦具有法償效力。
+
+---
+
+<!-- _header: 'Before the End 寫在最後' -->
+
+（生成式）人工智慧時代中，生而為人的資料生產者角色、隱私保護與權利變遷
+
+* Moderation in all things 過猶不及
+* Read the contract 契約要看
+* Pay for privacy 隱私有價 🔒
 
 ---
 
@@ -370,7 +468,7 @@ Concerns in the past
 
 <!-- _header: 'Powered By 以上' -->
 
-Github [iunn-sh/right-to-not-digitize](https://github.com/iunn-sh/right-to-not-digitize) :electric_plug:
+Github [iunn-sh/right-to-not-digitize](https://github.com/iunn-sh/right-to-not-digitize) ![GitHub License](https://img.shields.io/github/license/iunn-sh/right-to-not-digitize?style=flat-square)
 
 | Credit             | Link                                                                                  |
 | -----------------: | :------------------------------------------------------------------------------------ |
