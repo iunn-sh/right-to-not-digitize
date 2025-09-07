@@ -450,10 +450,12 @@ ul {
 
 <!-- _header: 'Before the End 寫在最後' -->
 
+# Right to not Digitize in the AI-era <br> AI 襲來，「不數位化的自由」該往何方
+
 （生成式）人工智慧時代中，生而為人的資料生產者角色、隱私保護與權利變遷
 
 * Moderation in all things 過猶不及
-* Read the contract 契約要看
+* Review the contract 契約要看
 * Pay for privacy 隱私有價 🔒
 
 ---
