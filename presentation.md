@@ -17,21 +17,22 @@ footer: '**逃往最後的房間：數位法治特展**
 
 > 逃往最後的房間：司改會數位法治特展｜講座
 
-2025.09.20
+`2025.09.20`
 
 ---
 
 <!-- _header: 'Outline 大綱' -->
 
-0. Privacy 隱私
-1. Artificial intelligence (AI) 人工智慧
-2. Right to not Digitize 不數位化的自由
-3. Data Minimization 資料最小化
-4. Meaningful Alternative 替代選擇權
+0. [Privacy 隱私](#privacy)
+1. [Artificial intelligence (AI) 人工智慧](#artificial-intelligence)
+2. [Right to not Digitize 不數位化的自由](#right-to-not-digitize)
+3. [Data Minimization 資料最小化](#data-minimization)
+4. [Meaningful Alternative 替代選擇權](#meaningful-alternative)
 
 ---
 
 <!-- _class: title -->
+<a name="privacy"></a>
 
 ![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/solid/fingerprint.svg)
 
@@ -105,6 +106,7 @@ footer: '**逃往最後的房間：數位法治特展**
 ---
 
 <!-- _class: title -->
+<a name="artificial-intelligence"></a>
 
 ![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/solid/circle-nodes.svg)
 
@@ -220,6 +222,37 @@ ul {
 
 ---
 
+<!-- _header: 'Terms of Use 使用條款' -->
+
+[ChatGPT使用條款](https://openai.com/zh-Hant/policies/row-terms-of-use/) 2024.12
+
+> **內容所有權。** 在您和OpenAI之間，在適用法律允許的範圍內，<mark>您(a)保留輸入的所有權，(b)擁有輸出</mark>。我們特此向您轉讓我們對輸出的所有權利、所有權和利益 (如果有)。
+> **我們對內容的使用。** <mark>我們可能使用內容</mark>來提供、維護、開發和提升我們的服務，遵守適用法律，執行我們的條款和政策，並確保我們的服務安全。
+> **輸出。** 如果您不希望我們使用您的內容來訓練我們的模型，您可以按照本說明中心文章中的說明<mark>選擇退出</mark>。請注意，在某些情況下，這可能會限制我們的服務更好地因應您特定使用情況的能力。
+
+---
+
+<!-- _header: 'Terms of Use 使用條款' -->
+
+[OpenAI的企業隱私權](https://openai.com/zh-Hant/enterprise-privacy/) 2025.06
+
+> **OpenAI是否會使用我的業務資料進行訓練？**
+> 預設情況下，<mark>我們不會使用您的業務資料來訓練我們的模型</mark>。若您明確選擇與我們分享資料（例如透過我們的意見回饋機制作選擇）來協助我們改善服務，我們可能會使用該共用資料進行模型訓練。
+> **誰擁有輸入與輸出內容？**
+> 您與OpenAI之間：<mark>您保留對所有提供給我們的輸入資料的完整權利，亦擁有從我們服務中合法取得的所有輸出資料的所有權</mark>（在法律允許範圍內）。我們僅在提供服務、遵守適用法律及執行政策所必要的情況下，取得您輸入與輸出資料的相關權利。
+
+---
+
+<!-- _header: 'Consent or Pay 同意或付費' -->
+
+[Most people will trade privacy for access to services such as Google, says Box CEO](https://www.cnbc.com/2020/01/02/most-people-will-trade-privacy-for-services-like-google-says-box-ceo.html) 2020.01
+
+> “I do think actually this is going to cause the ultimate test for consumers, to really make the decision and say, ‘<mark>Is the value we’re getting from these services worth possibly some of the data we’re giving up?</mark>’” said Levie, whose company provides cloud-based collaboration and file-sharing software.
+
+<!-- 隱私作為一種交易貨幣 -->
+
+---
+
 <!-- _header: 'Game changer? 遊戲顛覆者？' -->
 
 (Why) is Gen-AI the breaking change?
@@ -239,6 +272,7 @@ ul {
 ---
 
 <!-- _class: title -->
+<a name="right-to-not-digitize"></a>
 
 ![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/regular/compass.svg)
 
@@ -264,6 +298,8 @@ ul {
 [There is no cloud, it’s just someone else’s computer.](https://medium.com/@brian.greenberg/there-is-no-cloud-its-just-someone-else-s-computer-fe8b62a027a5) 2016.06
 
 > Let’s face it, the cloud is everywhere, but if you ask five different people what the cloud is, you’ll get five different answers. The fact of the matter is; There is no cloud, it’s just someone else’s computer.
+
+<!-- 最常使用的app？ -->
 
 ---
 
@@ -299,14 +335,6 @@ ul {
 
 ---
 
-<!-- _header: 'Captcha 驗證碼' -->
-
-[驗證碼浪費用戶數十億小時？研究揭開reCAPTCHA背後真相：幫Google賺錢](https://www.techbang.com/posts/121342-captchas-waste-billions-of-user-hours-research-unravels-the) 2025.02
-
-> Google早在2009年就收購了廣泛使用的reCAPTCHA工具。加州大學於2023年進行的一項研究...聚焦於通過Google reCAPTCHAv2在現實中最常見的兩種驗證碼形式：<mark>「隱形」或基於行為的驗證碼</mark>，當你勾選「我不是機器人」框時，甚至在你瀏覽網站時，它會暗中分析你的輸入；還有基於圖像的驗證碼，你需要從Google街景獲取的圖片中選擇所有摩托車、交通號誌之類的內容。這兩種驗證碼對Google都很有價值，前者生成的追蹤cookie可能有助於廣告定向投放，而後者則可用於Google內部的人工智慧模型訓練，或者出售給其他公司。
-
----
-
 <!-- _header: 'Do Not Track 請勿追蹤' -->
 
 [Do Not Track](https://www.eff.org/issues/do-not-track)
@@ -338,7 +366,41 @@ ul {
 
 ---
 
+<!-- _header: 'CAPTCHA 驗證碼' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
+
+[How does the “I’m not a robot” checkbox work?](https://medium.com/a-dose-of-curiosity/how-does-the-i-am-not-a-robot-checkbox-work-c24d426a82a1) 2019.06
+
+> A dystopian world like this needs a reliable way to differentiate an evil bot from a well-intentioned human. How can a banking website be sure that an innocent grandma who is logging in to check that the holiday gift money was successfully transferred to her grandchildren, is in fact, an innocent grandma? Enter, the <mark>“Completely Automated Public Turing test to tell Computers and Humans Apart”</mark>, or more simply, the CAPTCHA.
+
+* 典籍數位化 :arrow_right: 網站圖靈測試
+
+---
+
+<!-- _header: 'CAPTCHA 驗證碼' -->
+
+[reCAPTCHA](https://en.wikipedia.org/wiki/ReCAPTCHA)
+
+> reCAPTCHA Inc. is a CAPTCHA system owned by Google. ... The original version asked users to decipher hard-to-read text or match images. Version 2 also asked users to decipher text or match images if the analysis of cookies and canvas rendering suggested the page was being downloaded automatically. <mark>Since version 3, reCAPTCHA will never interrupt users and is intended to run automatically when users load pages or click buttons.</mark>
+
+![](https://upload.wikimedia.org/wikipedia/en/c/cf/NoCAPTCHA_reCAPTCHA.gif)
+
+---
+
+<!-- _header: 'CAPTCHA 驗證碼' -->
+
+[驗證碼浪費用戶數十億小時？研究揭開reCAPTCHA背後真相：幫Google賺錢](https://www.techbang.com/posts/121342-captchas-waste-billions-of-user-hours-research-unravels-the) 2025.02
+
+> Google早在2009年就收購了廣泛使用的reCAPTCHA工具。加州大學於2023年進行的一項研究...聚焦於通過Google reCAPTCHAv2在現實中最常見的兩種驗證碼形式：<mark>「隱形」或基於行為的驗證碼</mark>，當你勾選「我不是機器人」框時，甚至在你瀏覽網站時，它會暗中分析你的輸入；還有基於圖像的驗證碼，你需要從Google街景獲取的圖片中選擇所有摩托車、交通號誌之類的內容。這兩種驗證碼對Google都很有價值，前者生成的追蹤cookie可能有助於廣告定向投放，而後者則可用於Google內部的人工智慧模型訓練，或者出售給其他公司。
+
+---
+
 <!-- _class: title -->
+<a name="data-minimization"></a>
 
 ![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/solid/shoe-prints.svg)
 
@@ -376,7 +438,7 @@ ul {
 
 ---
 
-<!-- _header: 'Privacy by Design / Privacy by Default） 隱私設計/預設隱私' -->
+<!-- _header: 'Privacy by Design / Privacy by Default 隱私設計/預設隱私' -->
 
 [資料隱私設計 Design for Data Privacy](https://medium.com/uxeastmeetswest/%E8%B3%87%E6%96%99%E9%9A%B1%E7%A7%81%E8%A8%AD%E8%A8%88-design-for-data-privacy-f5f260dc7db8) 2018.08
 
@@ -396,12 +458,13 @@ ul {
 ---
 
 <!-- _class: title -->
+<a name="meaningful-alternative"></a>
 
 ![logo](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/7.x/svgs/regular/map.svg)
 
 # Meaningful Alternative <br> 替代選擇權
 
-「選擇」參與數位環境的自由（opt-in）
+「選擇」參與數位環境的自由
 差別待遇
 有意義的替代方案
 非數位的支付方式
@@ -429,14 +492,6 @@ ul {
 [健保署依憲法法庭判決意旨，即日起提供民眾退出資料目的外使用](https://www.nhi.gov.tw/ch/cp-18828-457f9-3255-1.html) 2025.08
 
 > 為回應111年憲法法庭憲判字第13號判決意旨，並落實個人資料自主權，於8月12日起，<mark>民眾可向健保署申請健保資料停止目的外利用</mark>。健保署表示，憲法法庭對健保資料的運用價值給予肯定，審認其為增進公共利益的必要手段，而回顧過往，學研單位運用健保資料在學術研究、公共衛生及政策評估等多方面，於國內外期刊發表逾九千餘篇論文，並培育國內許多博碩士學子取得學位。然而，為回應民眾對<mark>資料自主權</mark>的重視，健保署在立法院審議《全民健康保險資料管理條例》草案完成立法前，參考前開法案立法重點先行公告「全民健康保險資料研究利用與停止利用申請作業及管理要點」，作為提供民眾申請停止資料目的外利用之作業依據。
-
----
-
-<!-- _header: 'Consent or Pay 同意或付費' -->
-
-[Most people will trade privacy for access to services such as Google, says Box CEO](https://www.cnbc.com/2020/01/02/most-people-will-trade-privacy-for-services-like-google-says-box-ceo.html) 2020.01
-
-> “I do think actually this is going to cause the ultimate test for consumers, to really make the decision and say, ‘<mark>Is the value we’re getting from these services worth possibly some of the data we’re giving up?</mark>’” said Levie, whose company provides cloud-based collaboration and file-sharing software.
 
 ---
 
@@ -479,6 +534,14 @@ ul {
 
 ---
 
+<!-- _header: 'Revisit Epidemic Prevention 回到防疫' -->
+
+[台灣社交距離App取代簡訊實聯制！怎麼下載、怎麼用一次看懂](https://www.bnext.com.tw/article/62626/taiwan-social-distance-app) 2022.04
+
+> 「臺灣社交距離App」是由台灣人工智慧實驗室開發，與行政院及衛生福利部疾病管制署合作的防疫App，強調<mark>免註冊、重視隱私與使用者意願，不會擷取使用者資訊，也無個人資料上傳</mark>。App原理是透過藍牙訊號強弱計算使用者之間的距離，因此不會追蹤使用者所在的位置資訊，也不是足跡追蹤。擔心民眾產生隱私疑慮，官方表示「臺灣社交距離App」<mark>藉由藍牙技術記錄接觸對象、接觸距離與時間，並產生去識別化資料</mark>。去識別化資料是由使用者手持裝置每15分鐘自動生成一個隨機、不可回溯、無法還原的雜湊值（Hashed ID/隨機ID），且每次的隨機ID皆不同，相關接觸資料僅儲存於個人手持裝置端14天，過期資料會自動從手持裝置中刪除。
+
+---
+
 <!-- _header: 'Before the End 寫在最後' -->
 
 # Right to not Digitize in the AI-era <br> AI 襲來，「不數位化的自由」該往何方
@@ -487,7 +550,7 @@ ul {
 
 * Moderation in all things 過猶不及
 * Review the contract 契約要看
-* Pay for privacy 隱私有價 🔒
+* Pay for privacy 隱私有價 :moneybag:
 
 ---
 
@@ -496,6 +559,14 @@ ul {
 > Eternal vigilance is the price of liberty.
 > 自由的代價是永恆的警戒。
 > `- Thomas Jefferson`
+
+---
+
+<!-- _header: 'Your Call 選擇' -->
+
+> We just decided to.
+> 決心而已。
+> `- S1 E1, The Newsroom`
 
 ---
 
