@@ -179,7 +179,10 @@ ul {
 
 > Based on my habits, the streaming music industry is killing the traditional music industry. <mark>What is good for consumers, in this instance, is not good for artists as streaming services pay oh so very little for each play</mark>, see the image to the right. Apple reportedly offered the Industry a streaming payout that is less than 1/3 the industry standard!
 
-* :arrow_right: 並非每個技術變遷的警告都有成真，難以想像過去的生活方式（數位原住民）
+* :triangular_flag_on_post: 並非每個技術變遷的警告都有成真
+* :cd: 產業的變與不變
+
+<!-- 難以想像過去的生活方式（數位原住民）：查字典比賽、查號台 -->
 
 ---
 
@@ -410,7 +413,7 @@ ul {
 建檔/剖繪（profiling）
 隱私設計（privacy-by-design）
 預設隱私（privacy-by-default）
-限縮範圍：資料蒐集/處理/利用
+限縮範圍：資料蒐集／處理／利用
 
 ---
 
@@ -535,10 +538,17 @@ ul {
 ---
 
 <!-- _header: 'Revisit Epidemic Prevention 回到防疫' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [台灣社交距離App取代簡訊實聯制！怎麼下載、怎麼用一次看懂](https://www.bnext.com.tw/article/62626/taiwan-social-distance-app) 2022.04
 
-> 「臺灣社交距離App」是由台灣人工智慧實驗室開發，與行政院及衛生福利部疾病管制署合作的防疫App，強調<mark>免註冊、重視隱私與使用者意願，不會擷取使用者資訊，也無個人資料上傳</mark>。App原理是透過藍牙訊號強弱計算使用者之間的距離，因此不會追蹤使用者所在的位置資訊，也不是足跡追蹤。擔心民眾產生隱私疑慮，官方表示「臺灣社交距離App」<mark>藉由藍牙技術記錄接觸對象、接觸距離與時間，並產生去識別化資料</mark>。去識別化資料是由使用者手持裝置每15分鐘自動生成一個隨機、不可回溯、無法還原的雜湊值（Hashed ID/隨機ID），且每次的隨機ID皆不同，相關接觸資料僅儲存於個人手持裝置端14天，過期資料會自動從手持裝置中刪除。
+> 「臺灣社交距離App」是由台灣人工智慧實驗室開發，與行政院及衛福部疾管署合作的防疫App，強調<mark>免註冊、重視隱私與使用者意願，不會擷取使用者資訊，也無個人資料上傳</mark>。App原理是透過藍牙訊號強弱計算使用者之間的距離，因此不會追蹤使用者所在的位置資訊，也不是足跡追蹤。擔心民眾產生隱私疑慮，官方表示「臺灣社交距離App」<mark>藉由藍牙技術記錄接觸對象、接觸距離與時間，並產生去識別化資料</mark>。去識別化資料是由使用者手持裝置每15分鐘自動生成一個隨機、不可回溯、無法還原的雜湊值（Hashed ID/隨機ID），且每次的隨機ID皆不同，相關接觸資料僅儲存於個人手持裝置端14天，過期資料會自動從手持裝置中刪除。
+
+* :accept: We just decided to 決心而已
 
 ---
 
@@ -548,25 +558,18 @@ ul {
 
 （生成式）人工智慧時代中，生而為人的資料生產者角色、隱私保護與權利變遷
 
-* Moderation in all things 過猶不及
+* Government / enterprise / people 政府／企業／人民
+* Pay for privacy 隱私有價
 * Review the contract 契約要看
-* Pay for privacy 隱私有價 :moneybag:
-
----
-
-<!-- _header: 'Price of Liberty 自由的代價' -->
-
-> Eternal vigilance is the price of liberty.
-> 自由的代價是永恆的警戒。
-> `- Thomas Jefferson`
+* Moderation in all things 過猶不及 :red_circle::yellow_circle::green_circle:
 
 ---
 
 <!-- _header: 'Your Call 選擇' -->
 
-> We just decided to.
-> 決心而已。
-> `- S1 E1, The Newsroom`
+> Eternal vigilance is the price of liberty.
+> 自由的代價是永恆的警戒。
+> `- Thomas Jefferson`
 
 ---
 
