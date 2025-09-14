@@ -257,20 +257,19 @@ ul {
 ---
 
 <!-- _header: 'Game changer? 遊戲顛覆者？' -->
-
-(Why) is Gen-AI the breaking change?
-
-- Killer application: influence and potential profitability
-- Permission for human to view != for robot to crawl != for AI to train
-- Fair use 🆚 tokenized training data
-
----
-
-<!-- _header: 'Data Openner 資料的開罐器' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [罐頭冷知識：先有罐頭還是先有開罐器？一切起源竟與拿破崙有關！](https://www.roomie.tw/posts/47459) 2025.06
 
 > 罐頭的誕生要回到18世紀末。當時拿破崙在征戰歐洲時發現大軍糧食保存是最大問題，因此懸賞1.2萬法郎徵求方法。法國廚師Nicolas Appert提出用玻璃瓶密封並加熱的保存法，被認為是現代罐頭技術的開端。後來英國人Peter Durand將之改良為<mark>金屬罐頭</mark>，並於<mark>1810年</mark>獲得專利，從此罐頭食品開始進入量產時代，不過全球第一個罐頭工廠是設在美國。有了金屬罐頭，卻沒有人發明專用開罐器，造成19世紀人類小小的苦惱。當時的人得用錘子、鑿子或甚至直接拿槍刺開罐頭。直到<mark>1855年</mark>，英國人Robert Yeates才發明了<mark>第一把專用開罐器</mark>。這中間的50年，人類與罐頭「硬碰硬」，想想就覺得辛苦。
+
+* :canned_food: 商用為王：Data Openner 資料的開罐器
+
+<!-- Killer application: influence and potential profitability -->
 
 ---
 
@@ -292,15 +291,22 @@ ul {
 
 ![saas application vs on premises](https://cf-assets.www.cloudflare.com/slt3lc6tev37/lFmdhi3Yhkb9IoMGcviQd/20f9e97bc317146a3a2d7793f3a586a8/saas-application-vs-on-premises.svg)
 
-<!-- Adobe Creative Cloud, Microsoft 365 -->
+<!-- DVD/Netflix, Adobe Creative Cloud, Microsoft 365 -->
 
 ---
 
 <!-- _header: 'Cloud 雲端' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
-[There is no cloud, it’s just someone else’s computer.](https://medium.com/@brian.greenberg/there-is-no-cloud-its-just-someone-else-s-computer-fe8b62a027a5) 2016.06
+[What is the cloud?](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/)
 
-> Let’s face it, the cloud is everywhere, but if you ask five different people what the cloud is, you’ll get five different answers. The fact of the matter is; There is no cloud, it’s just someone else’s computer.
+> <mark>"The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers.</mark> Cloud servers are located in data centers all over the world. By using cloud computing, users and companies do not have to manage physical servers themselves or run software applications on their own machines.
+
+* :foggy: [There is no cloud, it’s just someone else’s computer.](https://medium.com/@brian.greenberg/there-is-no-cloud-its-just-someone-else-s-computer-fe8b62a027a5) - Brian Greenberg
 
 <!-- 最常使用的app？ -->
 
@@ -331,10 +337,17 @@ ul {
 ---
 
 <!-- _header: 'Digital Footprint 數位足跡' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [Cookie是什麼？如何管理Cookie，防範網路隱私外洩？](https://blog.trendmicro.com.tw/?p=63387) 2022.11
 
 > 雖說Cookie很方便，但從隱私的角度而言，<mark>如果被意圖不軌的第三方使用Cookie，使用者在線上的行動極有可能遭到追蹤</mark>。Cookie可隨時刪除，亦可自行選擇是否儲存於電腦或智慧型手機內。可根據需求刪除Cookie，於資安與隱私之間取得平衡。
+
+* :detective: 兼顧？
 
 ---
 
@@ -350,7 +363,7 @@ ul {
 
 [Yahoo也放棄「不追蹤」政策 全面監視使用者上站行為](https://www.ithome.com.tw/news/87409) 2014.05
 
-> DNT機制是由Mozilla所提出，並率先應用在Firefox上，當使用者於瀏覽器中啟用DNT時，所造訪的網站便會知道該名使用者拒絕被追蹤。當DNT被啟用時，代表使用者並不想被追蹤，不想成為目標廣告對象，但<mark>只是一種意願的表達，並沒有強制性</mark>。理想的情況是所造訪的網站或廣告主會尊重使用者的意願，不追蹤其網路行為。
+> 繼Google、Facebook之後，Yahoo也宣布取消Do Not Track（DNT）政策。Yahoo在官網宣布，<mark>為了更容易追蹤使用者在網路上的使用者資料與行為，來打造個人化的服務，不再支援使用者瀏覽器上的DNT功能</mark>。此舉也意味著，未來就算使用者啟用了瀏覽器上的DNT功能，也無法隱藏自己在Yahoo網站上的行蹤。...DNT機制是由Mozilla所提出，並率先應用在Firefox上，當使用者於瀏覽器中啟用DNT時，所造訪的網站便會知道該名使用者拒絕被追蹤。當DNT被啟用時，代表使用者並不想被追蹤，不想成為目標廣告對象，但<mark>只是一種意願的表達，並沒有強制性</mark>。理想的情況是所造訪的網站或廣告主會尊重使用者的意願，不追蹤其網路行為。目前Chrome、Firefox、IE都支援DNT功能。
 
 ---
 
@@ -398,7 +411,7 @@ ul {
 
 [驗證碼浪費用戶數十億小時？研究揭開reCAPTCHA背後真相：幫Google賺錢](https://www.techbang.com/posts/121342-captchas-waste-billions-of-user-hours-research-unravels-the) 2025.02
 
-> Google早在2009年就收購了廣泛使用的reCAPTCHA工具。加州大學於2023年進行的一項研究...聚焦於通過Google reCAPTCHAv2在現實中最常見的兩種驗證碼形式：<mark>「隱形」或基於行為的驗證碼</mark>，當你勾選「我不是機器人」框時，甚至在你瀏覽網站時，它會暗中分析你的輸入；還有基於圖像的驗證碼，你需要從Google街景獲取的圖片中選擇所有摩托車、交通號誌之類的內容。這兩種驗證碼對Google都很有價值，前者生成的追蹤cookie可能有助於廣告定向投放，而後者則可用於Google內部的人工智慧模型訓練，或者出售給其他公司。
+> Google早在2009年就收購了廣泛使用的reCAPTCHA工具。加州大學於2023年進行的一項研究...聚焦於通過Google reCAPTCHAv2在現實中最常見的兩種驗證碼形式：<mark>「隱形」或基於行為的驗證碼</mark>，當你勾選「我不是機器人」框時，甚至在你瀏覽網站時，它會暗中分析你的輸入；還有基於圖像的驗證碼，你需要從Google街景獲取的圖片中選擇所有摩托車、交通號誌之類的內容。這兩種驗證碼對Google都很有價值，前者生成的追蹤cookie可能有助於<mark>廣告定向投放</mark>，而後者則可用於Google內部的<mark>人工智慧模型訓練</mark>，或者出售給其他公司。
 
 ---
 
@@ -520,10 +533,15 @@ ul {
 ---
 
 <!-- _header: 'Fiat Money 法定貨幣' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [新臺幣法償效力之說明](https://www.cbc.gov.tw/tw/cp-704-104905-9612e-1.html) 2021.09
 
-> 新臺幣為國幣，於我國境內所從事之交易，應以新臺幣來表示、記錄及結算。原則上，商家不應拒絕以新臺幣現金為交易之支付，除非法令另有規定或依契約約定（如線上交易、無人銷售、自助服務等情況），採現金以外之方式作為支付工具，且商家有義務於提供商品或服務前，明確揭示所接受之支付方式，其有關約定並應符合公平互惠原則，以避免消費糾紛。
+> 新臺幣為國幣，於我國境內所從事之交易，應以新臺幣來表示、記錄及結算。<mark>原則上，商家不應拒絕以新臺幣現金為交易之支付，除非法令另有規定或依契約約定</mark>（如線上交易、無人銷售、自助服務等情況），採現金以外之方式作為支付工具，且商家有義務於提供商品或服務前，明確揭示所接受之支付方式，其有關約定並應符合公平互惠原則，以避免消費糾紛。
 
 ---
 
@@ -548,7 +566,7 @@ ul {
 
 > 「臺灣社交距離App」是由台灣人工智慧實驗室開發，與行政院及衛福部疾管署合作的防疫App，強調<mark>免註冊、重視隱私與使用者意願，不會擷取使用者資訊，也無個人資料上傳</mark>。App原理是透過藍牙訊號強弱計算使用者之間的距離，因此不會追蹤使用者所在的位置資訊，也不是足跡追蹤。擔心民眾產生隱私疑慮，官方表示「臺灣社交距離App」<mark>藉由藍牙技術記錄接觸對象、接觸距離與時間，並產生去識別化資料</mark>。去識別化資料是由使用者手持裝置每15分鐘自動生成一個隨機、不可回溯、無法還原的雜湊值（Hashed ID/隨機ID），且每次的隨機ID皆不同，相關接觸資料僅儲存於個人手持裝置端14天，過期資料會自動從手持裝置中刪除。
 
-* :accept: We just decided to 決心而已
+* :accept: [We just decided to 決心而已](https://www.imdb.com/title/tt2289479/) - The Newsroom
 
 ---
 
@@ -562,6 +580,9 @@ ul {
 * Pay for privacy 隱私有價
 * Review the contract 契約要看
 * Moderation in all things 過猶不及 :red_circle::yellow_circle::green_circle:
+
+<!-- 刷卡買機票 -->
+<!-- 油門與煞車 -->
 
 ---
 
