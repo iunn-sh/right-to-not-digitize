@@ -187,10 +187,17 @@ ul {
 ---
 
 <!-- _header: 'Warning on AI 關於AI的警告' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [Stephen Hawking warns artificial intelligence could end mankind](https://www.bbc.com/news/technology-30290540) 2014.12
 
 > Prof Stephen Hawking, one of Britain's pre-eminent scientists, has said that efforts to create thinking machines pose a threat to our very existence. He told the BBC: "<mark>The development of full artificial intelligence could spell the end of the human race.</mark>" His warning came in response to a question about a revamp of the technology he uses to communicate, which involves a basic form of AI.
+
+* :wind_chime: False alarm? 草木皆兵？
 
 ---
 
