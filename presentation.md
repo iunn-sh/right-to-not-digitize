@@ -80,7 +80,7 @@ footer: '**逃往最後的房間：數位法治特展**
 
 [什麼是資料隱私？](https://www.cloudflare.com/zh-tw/learning/privacy/what-is-data-privacy/)
 
-> 資料隱私一般是指<mark>一個人能夠自己決定何時、如何以及在何種程度上與他人分享或交流有關他們的個人資訊</mark>。這種個人資訊可以是一個人的姓名、位置、聯絡資訊，或者是網路或現實世界的行為。就像有人可能希望把別人排除在私人談話之外一樣，許多線上使用者希望控制或防止某些類型的個人資料收集。
+> 資料隱私一般是指一個人能夠自己決定何時、如何以及在何種程度上與他人分享或交流有關他們的個人資訊。這種個人資訊<mark>可以是一個人的姓名、位置、聯絡資訊，或者是網路或現實世界的行為</mark>。就像有人可能希望把別人排除在私人談話之外一樣，許多線上使用者希望控制或防止某些類型的個人資料收集。
 
 ---
 
@@ -90,7 +90,7 @@ footer: '**逃往最後的房間：數位法治特展**
 
 - 1,200通勤月票
 - 信用卡自動儲值
-- 一卡通/悠遊卡
+- 一卡通／悠遊卡
 - 現金
 
 <!-- but what if I've got nothing to hide? -->
@@ -113,7 +113,8 @@ footer: '**逃往最後的房間：數位法治特展**
 # Artificial Intelligence (AI) <br> 人工智慧
 
 AI / Gen-AI
-Game changer?
+Data 資料
+Game changer? 遊戲顛覆者？
 
 ---
 
@@ -150,12 +151,12 @@ Game changer?
 <!-- _header: 'Technological Change 技術變遷' -->
 
 Concerns in the past
-- 報紙/廣播/電視
+- 報紙／廣播／電視
 - Internet
 - （智慧型）手機
 - 社群媒體
-- YouTube/直播
-- DVD/電影院/串流平台
+- YouTube／直播
+- DVD／電影院／串流平台
 - Gen-AI
 
 ---
@@ -179,8 +180,8 @@ ul {
 
 > Based on my habits, the streaming music industry is killing the traditional music industry. <mark>What is good for consumers, in this instance, is not good for artists as streaming services pay oh so very little for each play</mark>, see the image to the right. Apple reportedly offered the Industry a streaming payout that is less than 1/3 the industry standard!
 
-* :triangular_flag_on_post: 並非每個技術變遷的警告都有成真
 * :cd: 產業的變與不變
+* :triangular_flag_on_post: 並非每個技術變遷的警告都有成真
 
 <!-- 難以想像過去的生活方式（數位原住民）：查字典比賽、查號台 -->
 
@@ -201,6 +202,14 @@ ul {
 
 ---
 
+<!-- _header: 'AI Triangle AI三本柱' -->
+
+[Three Reasons Why Now is the Time for AI](https://medium.com/analytics-matters/three-reasons-why-now-is-the-time-for-artificial-intelligence-4299b8d7efc7) 2018.06
+
+![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_9cez7-2OwbRVJlFp5bVnQ.png)
+
+---
+
 <!-- _header: 'AI Training 訓練AI' -->
 
 [How to Train an Artificial Intelligence (AI) Model](https://www.intuit.com/blog/innovative-thinking/how-to-train-ai-model/) 2025.07
@@ -214,19 +223,18 @@ ul {
 
 ---
 
-<!-- _header: 'AI Triangle AI三本柱' -->
-
-[Three Reasons Why Now is the Time for AI](https://medium.com/analytics-matters/three-reasons-why-now-is-the-time-for-artificial-intelligence-4299b8d7efc7) 2018.06
-
-![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_9cez7-2OwbRVJlFp5bVnQ.png)
-
----
-
 <!-- _header: 'Data 資料' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [Data is the new air](https://www.csoonline.com/article/565480/data-is-the-new-air.html) 2018.05
 
 > Data is not the new “oil” anymore. Data is the new “air.” It has become more than economic fuel; it is a catalyst of innovation, of disruption, and of possibilities. However, it’s never a guarantee that all innovations, disruptions and possibilities will be positive ones.
+
+* :star: 最常使用的APP？
 
 <!-- role in AI era: air supply (along with computing power) -->
 
@@ -468,10 +476,18 @@ ul {
 # Data Minimization <br> 資料最小化
 
 推測資料（inferred data）
-建檔/剖繪（profiling）
+建檔／剖繪（profiling）
 隱私設計（privacy-by-design）
 預設隱私（privacy-by-default）
 限縮範圍：資料蒐集／處理／利用
+
+---
+
+<!-- _header: 'Inferred Data 推測資料' -->
+
+[別想偷偷裝大人！Google開始用AI判斷你的上網行為是不是未成年](https://www.techbang.com/posts/124650-google-ai-age-estimation-teen-restrictions) 2025.08
+
+> 根據《TechCrunch》報導，Google近期在美國展開一項新測試，將<mark>透過機器學習技術來判斷使用者年齡，不再只依賴帳號設定或手動驗證，而是從平時的搜尋行為與YouTube觀看紀錄下手</mark>。系統會綜合帳號內的使用習慣，來推估使用者是否為未成年。如果結果顯示「未滿18歲」，Google就會主動寄送通知，告知帳號權限可能會發生變動。
 
 ---
 
@@ -483,15 +499,7 @@ ul {
 
 ---
 
-<!-- _header: 'Inferred Data 推測資料' -->
-
-[別想偷偷裝大人！Google 開始用 AI 判斷你的上網行為是不是未成年](https://www.techbang.com/posts/124650-google-ai-age-estimation-teen-restrictions) 2025.08
-
-> 根據《TechCrunch》報導，Google近期在美國展開一項新測試，將<mark>透過機器學習技術來判斷使用者年齡，不再只依賴帳號設定或手動驗證，而是從平時的搜尋行為與YouTube觀看紀錄下手</mark>。系統會綜合帳號內的使用習慣，來推估使用者是否為未成年。如果結果顯示「未滿18歲」，Google就會主動寄送通知，告知帳號權限可能會發生變動。
-
----
-
-<!-- _header: 'Profiling 建檔/剖繪' -->
+<!-- _header: 'Profiling 建檔／剖繪' -->
 
 [行為側寫與行為定向（Behavioral Profiling and Targeting）](https://medium.com/marketingdatascience/%E8%A1%8C%E7%82%BA%E5%81%B4%E5%AF%AB%E8%88%87%E8%A1%8C%E7%82%BA%E5%AE%9A%E5%90%91-behavioral-profiling-and-targeting-132ac0c8a952) 2018.11
 
@@ -507,11 +515,18 @@ ul {
 
 ---
 
-<!-- _header: 'Privacy by Design / Privacy by Default 隱私設計/預設隱私' -->
+<!-- _header: 'Privacy by Design / Privacy by Default 隱私設計／預設隱私' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [資料隱私設計 Design for Data Privacy](https://medium.com/uxeastmeetswest/%E8%B3%87%E6%96%99%E9%9A%B1%E7%A7%81%E8%A8%AD%E8%A8%88-design-for-data-privacy-f5f260dc7db8) 2018.08
 
 > 隱私設計（Privacy by Design）是於九零年代就有的框架，一直以來都是企業可以選擇是否要遵循。而現今GDPR規定ㄧ定要將Privacy by Design列入要求。像是預設隱私（Privacy by Default）也是GDPR重點之一，產品預設必須<mark>以使用者隱私為優先</mark>，舉例來說，不能一開始就將使用者隱私暴露打開，而使用者必須事後進去手動關掉。<mark>資訊透明</mark>也是Privacy by Design的重點，產品必須向使用者揭露產品紀錄的什麼資訊、如何使用這些資訊、在哪裡儲存這些資訊。
+
+* :sparkler: 當科技遇上法律
 
 ---
 
