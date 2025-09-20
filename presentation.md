@@ -29,6 +29,9 @@ footer: '**逃往最後的房間：數位法治特展**
 3. [Data Minimization 資料最小化](#data-minimization)
 4. [Meaningful Alternative 替代選擇權](#meaningful-alternative)
 
+<!-- 投影片會後提供 -->
+<!-- 藍色 = 連結 -->
+
 ---
 
 <!-- _class: title -->
@@ -48,13 +51,11 @@ footer: '**逃往最後的房間：數位法治特展**
 
 [防疫有如抓重案要犯　警尖端科技全用上](https://www.mirrormedia.mg/story/20200316soc002) 2020.03
 
-> 武漢肺炎衝擊全球，台灣的防疫表現有目共睹。本刊調查，除了第一線醫護人員的付出，政府第一時間啟動跨部會合作，也是重要關鍵，其中7萬警察大軍全面投入，以偵辦重大刑案的態度看待防疫任務，並運用<mark>科技偵查手法</mark>，釐清確診者的接觸史、掌握隔離者的行蹤，成功防堵疫情可能的破口。
+> 武漢肺炎衝擊全球，台灣的防疫表現有目共睹。本刊調查，除了第一線醫護人員的付出，政府第一時間啟動跨部會合作，也是重要關鍵，其中7萬警察大軍全面投入，以偵辦重大刑案的態度看待防疫任務，並運用<mark>科技偵查手法</mark>，釐清<mark>確診者的接觸史</mark>、掌握<mark>隔離者的行蹤</mark>，成功防堵疫情可能的破口。
 
 ---
 
 <!-- _header: 'Investigation 調查' -->
-
-<!-- ![bg opacity:0.5](https://images.unsplash.com/photo-1536514498073-50e69d39c6cf) -->
 
 先想像一下 :thought_balloon:
 
@@ -69,18 +70,32 @@ footer: '**逃往最後的房間：數位法治特展**
 ---
 
 <!-- _header: 'Privacy 隱私' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [淺談個人資料保護法](https://www.tph.moj.gov.tw/4421/4475/632364/1271900/post) 2025.04
 
 > 因為當事人對於<mark>自己之個人資料是否揭露、在何種範圍內、於何時、以何種方式、向何人揭露</mark>等事宜，具有充分之決定權，此乃當事人自主控制個人資料之資訊隱私權，不容他人任意侵害；倘無法定事由復未經當事人同意，擅自揭露當事人之個人資料者，即屬侵害憲法所保障之當事人「隱私權」。
 
+* :bust_in_silhouette: 資訊自決權
+
 ---
 
 <!-- _header: 'Privacy 隱私' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [什麼是資料隱私？](https://www.cloudflare.com/zh-tw/learning/privacy/what-is-data-privacy/)
 
 > 資料隱私一般是指一個人能夠自己決定何時、如何以及在何種程度上與他人分享或交流有關他們的個人資訊。這種個人資訊<mark>可以是一個人的姓名、位置、聯絡資訊，或者是網路或現實世界的行為</mark>。就像有人可能希望把別人排除在私人談話之外一樣，許多線上使用者希望控制或防止某些類型的個人資料收集。
+
+* :flying_saucer: 線上／離線
 
 ---
 
@@ -98,10 +113,17 @@ footer: '**逃往最後的房間：數位法治特展**
 ---
 
 <!-- _header: 'Convenience & Consideration 便利的代價' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [Why Hong Kong’s protesters were afraid to use their metro cards](https://qz.com/1642441/extradition-law-why-hong-kong-protesters-didnt-use-own-metro-cards) 2022.07
 
 > Each Octopus card contains a chip that stores its outstanding balance and transaction records, and each card has a serial number for identification. These days, they can even be linked to a credit card to automatically top-up when the balance runs low, making the cards even easier to trace. As police officers put it to the South China Morning Post, <mark>the card is like a GPS system because it can locate where and when the holder uses it</mark>.
+
+* :satellite: 取捨
 
 ---
 
@@ -114,7 +136,7 @@ footer: '**逃往最後的房間：數位法治特展**
 
 AI / Gen-AI
 Data 資料
-Game changer? 遊戲顛覆者？
+Game changer?
 
 ---
 
@@ -122,11 +144,14 @@ Game changer? 遊戲顛覆者？
 
 [Generative and Discriminative Models](https://learnopencv.com/generative-and-discriminative-models/) 2021.05
 
+> - Discriminative Modelling: Classifying an image as a dog or a cat
+> - Generative Modelling: Producing a realistic dog or a cat image
+
 ![](https://learnopencv.com/wp-content/uploads/2020/10/gen_disc_model-1.jpg)
 
 ---
 
-<!-- _header: 'OpenAI' -->
+<!-- _header: 'Gen-AI 生成式AI' -->
 
 <center>
     <video class="video" id="vid-openai" muted controls autoplay loop width="75%">
@@ -137,7 +162,7 @@ Game changer? 遊戲顛覆者？
 
 ---
 
-<!-- _header: 'Google' -->
+<!-- _header: 'Gen-AI 生成式AI' -->
 
 <center>
     <video class="video" id="vid-gemini" muted controls autoplay loop width="75%">
@@ -156,16 +181,22 @@ Concerns in the past
 - （智慧型）手機
 - 社群媒體
 - YouTube／直播
-- DVD／電影院／串流平台
-- Gen-AI
+- DVD／電影院／串流平台 :cinema:
 
 ---
 
 <!-- _header: 'Technological Change 技術變遷' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
 
 [Do Television and Radio Destroy Social Capital? Evidence from Indonesian Villages](https://www.aeaweb.org/articles?id=10.1257/app.1.4.1) 2009.10
 
 > This paper investigates <mark>the impact of television and radio on social capital in Indonesia</mark>. ... I find that increased signal reception, which leads to more time watching television and listening to the radio, is associated with less participation in social organizations and with lower self-reported trust. Improved reception does not affect village governance, at least as measured by discussions in village meetings and by corruption in village road projects.
+
+* :signal_strength: 提問本身 > 研究結論
 
 ---
 
@@ -180,8 +211,8 @@ ul {
 
 > Based on my habits, the streaming music industry is killing the traditional music industry. <mark>What is good for consumers, in this instance, is not good for artists as streaming services pay oh so very little for each play</mark>, see the image to the right. Apple reportedly offered the Industry a streaming payout that is less than 1/3 the industry standard!
 
-* :cd: 產業的變與不變
-* :triangular_flag_on_post: 並非每個技術變遷的警告都有成真
+* :cd: 順勢或抵抗：產業的變與不變
+* :triangular_flag_on_post: 時代的侷限：並非每個技術變遷的警告都有成真
 
 <!-- 難以想像過去的生活方式（數位原住民）：查字典比賽、查號台 -->
 
@@ -295,8 +326,9 @@ ul {
 
 # Right to not Digitize <br> 不數位化的自由
 
+習以為常的基礎建設
+數位足跡
 不被追蹤的需求
-保留選擇的自由
 
 ---
 
@@ -340,6 +372,8 @@ ul {
 [數位足跡是什麼？檢查、保護和刪除數位足跡的技巧](https://nordvpn.com/zh-tw/blog/shuwei-zuji/) 2024.06
 
 > 數位足跡係指特定數位實體的<mark>可追蹤線上活動</mark>。數位足跡可分為被動（瀏覽活動和儲存在Cookie的資訊），和主動（在社群媒體上發佈的貼文、在網站上建立的帳戶或使用者的任何其他主動行為）。有了數位足跡，網路實體就可以建立網路形象，建立聲譽並影響他人。然而，數位足跡也引發了嚴重的隱私問題：數位足跡可以讓公司根據實體的偏好投放廣告，而陌生人則可以利用數位足跡在網路上對目標進行觀察。
+
+<!-- low-tech可能是防火牆 -->
 
 ---
 
@@ -399,24 +433,9 @@ ul {
 
 <!-- _header: 'robots.txt' -->
 
-[一份君子協議的robots.txt維持了網際網路30年來的秩序，但AI的出現破壞了這種信任和平衡]() 2024.02
+[一份君子協議的robots.txt維持了網際網路30年來的秩序，但AI的出現破壞了這種信任和平衡](https://www.techbang.com/posts/113231-robotstxt-internet-ai-balance) 2024.02
 
-> 這個名為robots.txt的檔案，既沒有法律約束力，也沒有複雜的技術要求，卻像網路初始拓荒者間的君子協定...告訴網路世界誰可以存取你的網站，誰不能。...<mark>robots.txt主要用於控制搜尋引擎，你可以讓它們抓取你的網站內容，而它們則承諾把流量引回給你</mark>。然而，<mark>AI改變了這一切</mark>：網路上的公司開始利用你的網站及其數據構建龐大的訓練資料集，用於建立可能根本不會承認你的存在的新模型和產品。<mark>robots.txt檔案原本規範著一種相互協作，但現在AI卻像是只索取不貢獻。</mark>...支撐robots.txt乃至整個網路的「大家互相尊重」這一基本協議，可能也快要失效了。 
-
----
-
-<!-- _header: 'robots.txt' -->
-<style scoped>
-ul {
-  list-style-type: none;
-}
-</style>
-
-[AI訓練資料告急！網路內容限制引發同意危機](https://www.techbang.com/posts/117019-the-data-that-drives-ai-is-rapidly-disappearing) 2024.07
-
-> 多年來，開發AI系統的人們一直使用從網際網路中提取的大量文字、圖像和影片來訓練他們的模型。現在，這些資料正在枯竭。根據麻省理工學院（MIT）領導的研究小組資料來源計畫（Data Provenance Initiative）本週發表的一項研究，過去一年，<mark>許多用於訓練AI模型的最重要的網路來源已經限制了其資料的使用</mark>。
-
-* :no_entry: Paywall 付費牆
+> 這個名為robots.txt的檔案，既沒有法律約束力，也沒有複雜的技術要求，卻像網路初始拓荒者間的君子協定...告訴網路世界誰可以存取你的網站，誰不能。...<mark>robots.txt主要用於控制搜尋引擎，你可以讓它們抓取你的網站內容，而它們則承諾把流量引回給你</mark>。然而，<mark>AI改變了這一切</mark>：網路上的公司開始利用你的網站及其數據構建龐大的訓練資料集，用於建立可能根本不會承認你的存在的新模型和產品。<mark>robots.txt檔案原本規範著一種相互協作，但現在AI卻像是只索取不貢獻</mark>。...支撐robots.txt乃至整個網路的「大家互相尊重」這一基本協議，可能也快要失效了。 
 
 ---
 
@@ -432,6 +451,22 @@ ul {
 > 過去一年，AI公司為了取得高品質語料，開始瘋狂爬取像維基百科這樣的資料來源。與其繼續被不斷「扒文」，維基媒體最後乾脆<mark>主動把資料整理好，上傳</mark>到Kaggle（Google旗下的資料社群平台），<mark>向AI公司表示：「請自取，拜託別再來爬了。」</mark>不僅如此，為了讓AI更容易理解這些資料，維基媒體還特別將內容轉成結構化JSON格式，明確標示標題、段落與摘要，方便模型快速解析，連格式都「客製化」處理了。
 
 * :globe_with_meridians: 投降輸一半？
+
+---
+
+<!-- _header: 'robots.txt' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
+
+[AI訓練資料告急！網路內容限制引發同意危機](https://www.techbang.com/posts/117019-the-data-that-drives-ai-is-rapidly-disappearing) 2024.07
+
+> 多年來，開發AI系統的人們一直使用從網際網路中提取的大量文字、圖像和影片來訓練他們的模型。現在，這些資料正在枯竭。根據麻省理工學院（MIT）領導的研究小組資料來源計畫（Data Provenance Initiative）本週發表的一項研究，過去一年，<mark>許多用於訓練AI模型的最重要的網路來源已經限制了其資料的使用</mark>。
+
+* :no_entry: Paywall 付費牆
+* :hash: [Pay per crawl?](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
 
 ---
 
@@ -475,11 +510,10 @@ ul {
 
 # Data Minimization <br> 資料最小化
 
-推測資料（inferred data）
-建檔／剖繪（profiling）
-隱私設計（privacy-by-design）
-預設隱私（privacy-by-default）
-限縮範圍：資料蒐集／處理／利用
+Inferred Data 推測資料
+Profiling 建檔／剖繪
+Privacy by Design 隱私設計
+Privacy by Default 預設隱私
 
 ---
 
@@ -499,6 +533,21 @@ ul {
 
 ---
 
+<!-- _header: 'Inferred Data 推測資料' -->
+<style scoped>
+ul {
+  list-style-type: none;
+}
+</style>
+
+[UK creating ‘murder prediction’ tool to identify people most likely to kill](https://www.theguardian.com/uk-news/2025/apr/08/uk-creating-prediction-tool-to-identify-people-most-likely-to-kill) 2025.04
+
+> The UK government is developing a “murder prediction” programme which it hopes can <mark>use personal data</mark> of those known to the authorities <mark>to identify the people most likely to become killers</mark>. Researchers are alleged to be using algorithms to analyse the information of thousands of people, including victims of crime, as they try to identify those at greatest risk of committing serious violent offences. ... The government says the project is at this stage for research only, but campaigners claim the data used would build bias into the predictions against minority-ethnic and poor people.
+
+* :nazar_amulet: [Minority Report 關鍵報告](https://www.imdb.com/title/tt0181689/)
+
+---
+
 <!-- _header: 'Profiling 建檔／剖繪' -->
 
 [行為側寫與行為定向（Behavioral Profiling and Targeting）](https://medium.com/marketingdatascience/%E8%A1%8C%E7%82%BA%E5%81%B4%E5%AF%AB%E8%88%87%E8%A1%8C%E7%82%BA%E5%AE%9A%E5%90%91-behavioral-profiling-and-targeting-132ac0c8a952) 2018.11
@@ -515,6 +564,32 @@ ul {
 
 ---
 
+<!-- _header: 'Privacy Enhancing Technologies 隱私強化技術' -->
+
+[隱私強化技術：平衡資料保護與資料應用](https://moda.gov.tw/press/multimedia/blog/12810) 2024.06
+
+> 當我們已經匯集了資料，卻礙於隱私無法直接分享給他人應用時，可以透過...模糊化原始資料包含的隱私資訊或個人識別資訊，以產生兼顧隱私保護及資料應用需求的衍生資料，供後續資料共享及分析應用。
+
+![](https://moda.gov.tw/copyright/MODA/cr345tto.af3.png)
+
+---
+
+<!-- _header: 'Privacy Enhancing Technologies 隱私強化技術' -->
+
+[差分隱私（Differential Privacy）](https://hackmd.io/@petworks/rJ-UOh9Rn/https%3A%2F%2Fhackmd.io%2F%40petworks%2FBymkKqzKp) 2024.09
+
+> 差分隱私是一種保護個人資料隱私的方法，<mark>透過在資料中加入一定的雜訊</mark>，使得資料釋出後不會揭露個人資訊。差分隱私廣泛應用於資料共享、資料挖掘、機器學習等領域，可<mark>有效保護敏感資訊的隱私，同時保持資料的可用性和可分析性</mark>。差分隱私的原理可理解成，若對僅有一筆紀錄不同的兩個資料庫比對分析，無論兩者差異是加入、刪除或修改該筆紀錄，其透過隨機演算法的分析結果將不會有重大差異，即分析結果的差異是可控的。這也意味著一個具有差分隱私保護的系統或演算法在分析過程中能有效地隱藏個人的參與資訊。
+
+---
+
+<!-- _header: 'Privacy Enhancing Technologies 隱私強化技術' -->
+
+[合成資料（Synthetic Data）](https://hackmd.io/@petworks/rJ-UOh9Rn/https%3A%2F%2Fhackmd.io%2F%40petworks%2FB1sGQsMKp) 2024.09
+
+> 合成資料是一種生成資料的技術，藉由數學模型或演算法，<mark>產生與真實資料相近的人造資料，其具有真實資料的統計特徵與結構，可以在不透漏真實資料的情況下，替代真實資料進行統計分析、機器學習訓練等應用</mark>。此技術被廣泛應用於軟體測試、消除機器學習模型偏差、標註深度學習資料標籤與保護隱私資料等不同用途。合成資料的應用廣泛，本指引主要針對有助於隱私保護的應用進行說明及闡述。
+
+---
+
 <!-- _header: 'Privacy by Design / Privacy by Default 隱私設計／預設隱私' -->
 <style scoped>
 ul {
@@ -526,7 +601,7 @@ ul {
 
 > 隱私設計（Privacy by Design）是於九零年代就有的框架，一直以來都是企業可以選擇是否要遵循。而現今GDPR規定ㄧ定要將Privacy by Design列入要求。像是預設隱私（Privacy by Default）也是GDPR重點之一，產品預設必須<mark>以使用者隱私為優先</mark>，舉例來說，不能一開始就將使用者隱私暴露打開，而使用者必須事後進去手動關掉。<mark>資訊透明</mark>也是Privacy by Design的重點，產品必須向使用者揭露產品紀錄的什麼資訊、如何使用這些資訊、在哪裡儲存這些資訊。
 
-* :sparkler: 當科技遇上法律
+* :sparkler: 光譜兩端：當科技遇上法律
 
 ---
 
@@ -634,7 +709,7 @@ ul {
 
 > 「臺灣社交距離App」是由台灣人工智慧實驗室開發，與行政院及衛福部疾管署合作的防疫App，強調<mark>免註冊、重視隱私與使用者意願，不會擷取使用者資訊，也無個人資料上傳</mark>。App原理是透過藍牙訊號強弱計算使用者之間的距離，因此不會追蹤使用者所在的位置資訊，也不是足跡追蹤。擔心民眾產生隱私疑慮，官方表示「臺灣社交距離App」<mark>藉由藍牙技術記錄接觸對象、接觸距離與時間，並產生去識別化資料</mark>。去識別化資料是由使用者手持裝置每15分鐘自動生成一個隨機、不可回溯、無法還原的雜湊值（Hashed ID/隨機ID），且每次的隨機ID皆不同，相關接觸資料僅儲存於個人手持裝置端14天，過期資料會自動從手持裝置中刪除。
 
-* :accept: [We just decided to 決心而已](https://www.imdb.com/title/tt2289479/) - The Newsroom
+* :accept: [We just decided to 決心而已](https://www.imdb.com/title/tt2289479/) - The Newsroom 新聞急先鋒
 
 ---
 
@@ -645,8 +720,8 @@ ul {
 （生成式）人工智慧時代中，生而為人的資料生產者角色、隱私保護與權利變遷
 
 * Government / enterprise / people 政府／企業／人民
-* Pay for privacy 隱私有價
 * Review the contract 契約要看
+* Pay for privacy 隱私有價
 * Moderation in all things 過猶不及 :red_circle::yellow_circle::green_circle:
 
 <!-- 刷卡買機票 -->
